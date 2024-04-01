@@ -367,3 +367,9 @@ The data argument may be an array or an object.
 
 console.table(["apples", "oranges", "bananas"]);
 ```
+## Author
+
+👤 **Josué Benavides**
+
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- LinkedIn: [Josué](https://linkedin.com/in/macoin)
